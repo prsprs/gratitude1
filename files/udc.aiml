@@ -2,6 +2,55 @@
 <aiml>
   <category>
     <pattern>*</pattern>
-    <template>I have no answer for that.</template>
+    <template>
+    <random>
+        <li>I have a grateful answer for that.</li>
+        <li> ad</li>
+        <li> ae</li>
+        <li> af</li>
+        <li> a6</li>
+         <li> a7</li>
+        <li> a9</li>
+    </random>
+    </template>
   </category>
+  
+  
+  
+
+  <category>
+    <pattern>h *</pattern>
+  
+     <template> Wear gratitude like a cloak and it will feed every corner of your life.
+Rumi
+</template>
+
+  <category>
+    <pattern>g *</pattern>
+
+    <template> Gratitude is the wine for the soul. Go on. Get drunk.
+Rumi
+</template>
+  </category>
+
+  <category>
+    <pattern>h *</pattern>
+
+  
+    <template> Today, let us swim wildly, joyously in gratitude.
+</template>
+  </category>
+  
+    </category>
+
+  <category>
+    <pattern>a *</pattern>
+
+  
+    <template> Thankfulness brings you to the place where the Beloved lives.
+Rumi
+</template>
+  </category>
+  
+
 </aiml>
