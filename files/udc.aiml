@@ -17,7 +17,17 @@
   
   
   
-
+ <category>
+    <pattern>HELLO</pattern>
+    <template>
+    <random>
+        <li>Hello! I am very Grateful to see you here visiting me </li>
+        <li> Greetings </li>
+        <li> You have arrived Hooray I have been awaiting you</li>
+        <li> Blessings and hello to you</li>
+    </random>
+    </template>
+  </category>
   <category>
     <pattern>h *</pattern>
   
